@@ -1,3 +1,3 @@
 # bertoti
 
-. Strategy
+- Strategy
