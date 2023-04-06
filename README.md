@@ -5,3 +5,6 @@
 
 - Observer:
   - https://refactoring.guru/pt-br/design-patterns/observer
+  
+- Composite:
+  - https://refactoring.guru/pt-br/design-patterns/composite
