@@ -1,0 +1,2 @@
+# Composite
+![Composite](diagrama.png)
