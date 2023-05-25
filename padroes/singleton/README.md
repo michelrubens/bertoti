@@ -1,1 +1,2 @@
+# Singleton
 ![Diagrama](./diagrama.png)
